@@ -1,0 +1,7 @@
+{
+    "name": "mysh",
+    "version": "1.0.0",
+    "dependencies": [],
+    "entrypoint": "run.sh",
+    "interpreter": "bash"
+}
